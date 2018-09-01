@@ -28,7 +28,7 @@ Books
 
 ## By Subject
 
-Intro to Economics:
+Intro to Economics & Finance:
 - This for That	by Schoolhouse Rock! (Barter and the history of currency) ... according to Adam Smith
 - $7.50 Once a Week	by Schoolhouse Rock! (Budget)
 - Where the Money Goes	by Schoolhouse Rock! (Family bills and expenses)
@@ -40,9 +40,18 @@ Intro to Economics:
 - Monopoly: The Fast-Dealing Property Trading Game by Parker Brothers
 - Walkin' on Wall Street by Schoolhouse Rock!	(Stock exchange)
 
-Intro to Politics:
-- Moral Politics by George Lakoff
+More Economics & Finance:
+- Debt: The First 5,000 Years by David Graeber
+- The Cashflow Quadrant by Robert Kiyosaki
 
-Intro to World History and World Geography through Anthropology:
+World History and World Geography through Anthropology:
 - Why the West Rules--For Now by Ian Morris
 
+US History:
+- The Creature from Jekyll Island by George Edward Griffin
+
+Politics:
+- Moral Politics by George Lakoff
+
+Communications:
+- Never Split the Difference by Chris Voss
